@@ -1,6 +1,5 @@
-# Translation Comparion
-
-This project was built for the Anthropic Summer Hackathon Build with Claude June 2024 Developer Contest Submission Form. It includes a React frontend using Vite and a Node.js backend. Below you will find instructions on setting up and running the project, along with other relevant information.
+# Translation Comparison
+This project, developed for the **Anthropic Summer Hackathon "Build with Claude" June 2024 Developer Contest**, aims to compare the translation capabilities of **Claude**, **OpenAI**, and **Deepl**. It features a **React** frontend utilizing **Vite** for efficient bundling and a **Node.js** backend for server-side operations. Data resulting from the comparisons is stored in a **PostgreSQL** database for analysis. Below, detailed instructions for setup and execution of the project are provided, along with additional pertinent information.
 
 ## Table of Contents
 - [Video Demo](#video-demo)
@@ -13,6 +12,7 @@ This project was built for the Anthropic Summer Hackathon Build with Claude June
 
 
 ## Video Demo
+https://youtu.be/0cYP4kTb3KQ
 
 ## Live demo
 https://frontendtranslator.onrender.com/
@@ -61,7 +61,8 @@ DATABASE_NAME=database_name_here
 DATABASE_USER=database_user_here
 DATABASE_PASSWORD=database_password_here
 ```
-- [Technologies Used](#technologies-used)
+
+## Technologies Used
 This project is built using a combination of modern and robust technologies to ensure high performance and scalability. The frontend is developed with **React**, leveraging **Vite** for an optimized build tool that ensures fast reloading and a smooth development experience. The backend runs on **Node.js**, providing a powerful environment for server-side logic. **PostgreSQL** is used as the database, known for its reliability and feature-rich capabilities. The entire application is deployed on **Render**, ensuring seamless deployment and hosting.
 
 ## APIs Used
