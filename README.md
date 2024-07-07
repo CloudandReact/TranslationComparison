@@ -14,8 +14,10 @@ This project, developed for the **Anthropic Summer Hackathon "Build with Claude"
 ## Video Demo
 https://youtu.be/0cYP4kTb3KQ
 
-## Live demo
-https://frontendtranslator.onrender.com/
+## Live Demo
+Experience the translation comparison in action at [https://frontendtranslator.onrender.com/](https://frontendtranslator.onrender.com/).
+
+**Please note:** There is a **limit of 35 words** for input to ensure efficient translation comparison due to my token limit.
 
 
 ## Project Structure
