@@ -18,6 +18,7 @@ https://youtu.be/0cYP4kTb3KQ
 Experience the translation comparison in action at [https://frontendtranslator.onrender.com/](https://frontendtranslator.onrender.com/).
 
 **Please note:** There is a **limit of 35 words** for input to ensure efficient translation comparison due to my token limit.
+**First request can take up to 90 seconds to load** After that it is much faster.
 
 
 ## Project Structure
