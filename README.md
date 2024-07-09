@@ -20,6 +20,8 @@ Experience the translation comparison in action at [https://frontendtranslator.o
 **Please note:** There is a **limit of 35 words** for input to ensure efficient translation comparison due to my token limit.
 **First request can take up to 90 seconds to load** After that it is much faster.
 
+**DEEPL API Does not yet work for Hindi nor Chinese and Arabic partially**
+
 
 ## Project Structure
 project-root  
@@ -74,7 +76,7 @@ This project integrates several powerful APIs to enhance its functionality:
 
 - **Anthropic Claude**: Utilized for advanced AI-driven text generation and understanding. [Learn more about the Claude API](https://support.anthropic.com/en/collections/5370014-claude-api).
 - **OpenAI**: Employs cutting-edge AI models for a variety of tasks including text generation, summarization, and more. [Explore the OpenAI API](https://openai.com/index/openai-api/).
-- **Deepl**: Known for its high-quality translations, Deepl's API is used to provide accurate and context-aware language translation services. [Discover the Deepl Pro API](https://www.deepl.com/en/pro-api).
+- **Deepl**: Known for its high-quality translations, Deepl's API is used to provide accurate and context-aware language translation services. [Discover the Deepl Pro API](https://www.deepl.com/en/pro-api). (Does not yet work for Hindi nor Chinese and Arabic partially)
 
 These APIs collectively contribute to the project's capabilities, enabling it to perform complex tasks efficiently and effectively.
 
