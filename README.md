@@ -17,8 +17,8 @@ https://youtu.be/0cYP4kTb3KQ
 ## Live Demo
 Experience the translation comparison in action at [https://frontendtranslator.onrender.com/](https://frontendtranslator.onrender.com/).
 
-**Please note:** There is a **limit of 35 words** for input to ensure efficient translation comparison due to my token limit.
-**First request can take up to 90 seconds to load** After that it is much faster.
+**Please note:** There is a **limit of 20 words** for input to ensure efficient translation comparison due to my token limit.
+**First request can take up to 90 seconds to load** After that it is much faster. No longer applicable
 
 **DEEPL API Does not yet work for Hindi nor Chinese and Arabic partially**
 
