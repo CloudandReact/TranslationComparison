@@ -11,8 +11,10 @@ This project, developed for the **Anthropic Summer Hackathon "Build with Claude"
 - [APIs Used](#apis-used)
 
 
-## Video Demo
-https://youtu.be/0cYP4kTb3KQ
+## Video Demo Youtube
+- [Overview](https://youtu.be/0cYP4kTb3KQ)
+- [ English Chinese Comparison](https://youtu.be/E8dKgj21nRU)
+- [English French Comparison](https://youtu.be/T6fgSPTErZs)
 
 ## Live Demo
 Experience the translation comparison in action at [https://frontendtranslator.onrender.com/](https://frontendtranslator.onrender.com/).
