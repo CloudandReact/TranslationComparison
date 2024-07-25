@@ -3,6 +3,7 @@ This project, developed for the **Anthropic Summer Hackathon "Build with Claude"
 
 ## Table of Contents
 - [Video Demo](#video-demo)
+- [Insights & Visuals](#insights--visuals)
 - [Live Demo](#live-demo)
 - [Project Structure](#project-structure)
 - [Running the Application](#running-the-application)
@@ -15,6 +16,16 @@ This project, developed for the **Anthropic Summer Hackathon "Build with Claude"
 - [Overview](https://youtu.be/0cYP4kTb3KQ)
 - [ English Chinese Comparison](https://youtu.be/E8dKgj21nRU)
 - [English French Comparison](https://youtu.be/T6fgSPTErZs)
+## Insights & Visuals
+In Short **Claude-Sonnet3.5-20240620** scored highest. However, further analysis would be necessary to confirm this conclusively as GPT3.5 and GPT4o are just slightly below in scores.
+
+![Translation Comparison ](images/AverageScoreByModel.png)
+
+
+![Distribution By Model](images/DistributionScores.png)
+
+### Jupyter Notebook
+For a detailed analysis, please refer to the [Collab Notebook](https://colab.research.google.com/drive/1gFPRgGlu9YXaPxxGoLQOhRpq4sIIYPN1?usp=sharing).
 
 ## Live Demo
 Experience the translation comparison in action at [https://frontendtranslator.onrender.com/](https://frontendtranslator.onrender.com/).
